@@ -1,4 +1,4 @@
-# Learn Linux ``Highly recommend``
+# Learn Linux *Highly recommend*
 - [Beginner friendly linux tutorial](https://www.javatpoint.com/linux-directories)
 - ## Cheatsheets
 	- Codecademy `easily printed`
