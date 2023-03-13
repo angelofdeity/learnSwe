@@ -9,7 +9,7 @@
   	- Quick 1 page reference `easily printed`
 		- [beginner_cheat_sheet](https://drive.google.com/file/d/1mjWbOAkY2zgXGOIF0aY-CW4A4HC7xfbe/view?usp=share_link)
 - ## Linux TextBook `Indepth Lessons`
-	- [The Complete Intoduction To Linux by WILLIAM E. SHOT TS, JR.](https://drive.google.com/file/d/1mjWbOAkY2zgXGOIF0aY-CW4A4HC7xfbe/view?usp=share_link)
+	- [The Complete Intoduction To Linux by WILLIAM E. SHOT TS, JR.](https://drive.google.com/file/d/1mhfeNAkOycjXbXnNE09UjbQUJ0Csuj6O/view?usp=share_link)
 	- Website version
 		- [Linux Navigation](http://linuxcommand.org/lc3_lts0020.php)
 		- [Linux - looking around](http://linuxcommand.org/lc3_lts0030.php)
