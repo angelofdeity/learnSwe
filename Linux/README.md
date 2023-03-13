@@ -1,5 +1,5 @@
-# Learn Linux *Highly recommend*
-- [Beginner friendly linux tutorial](https://www.javatpoint.com/linux-directories)
+# Learn Linux
+- [Beginner friendly linux tutorial](https://www.javatpoint.com/linux-directories) `Highly recommend`
 - ## Cheatsheets
 	- Codecademy `easily printed`
 		- [Navigating the File System](https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-navigation/cheatsheet)
