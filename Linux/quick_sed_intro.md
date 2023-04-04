@@ -31,6 +31,6 @@ or to insert or append text to a file, using the `i` or `a` commands.
 
 Overall, `sed` is a powerful tool for editing text files, and can save you a lot of time and effort when making changes to large or complex files.
 Read more about `sed` here:
-- [My follow up article 🙂]([https://](https://angel.hashnode.dev/short-sed-intro))
+- [My follow up article 🙂](https://angel.hashnode.dev/short-sed-intro)
 - [Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/Sed.html)
 - [sed-documentation](https://www.gnu.org/software/sed/manual/sed.html#Introduction) 
